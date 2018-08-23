@@ -1,2 +1,2 @@
 # Data-Visualizationn
-Visualizing a dataset having nana values using seaborn
+Visualizing a dataset having nan values using seaborn
